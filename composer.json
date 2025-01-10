@@ -1,6 +1,0 @@
-{
-    "require": {
-        "mevdschee/php-crud-api": "2.10.1",
-        "nyholm/psr7": "^1.8"
-    }
-}
